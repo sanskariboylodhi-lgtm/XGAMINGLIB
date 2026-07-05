@@ -2,15 +2,16 @@
   "showDialog": true,
   "lottieAnimationUrl": "https://raw.githubusercontent.com/sanskariboylodhi-lgtm/XGAMINGLIB/refs/heads/main/Animation.json",
   "title": "Welcome Back!",
-  "message": "FF Exter1.0 \nby @robinXD_101 \nJoin Telegram For More Updates!!",
+  "message": "FF External \nby @THEKING1318 \nJoin Telegram For More Updates!!",
   "isCancelable": true,
   "positiveButton": {
     "text": "Join",
     "action": "OPEN_URL",
-    "actionUrl": "https://t.me/ScarfallModz_Org"
+    "actionUrl": "https://t.me/thexgamming"
   },
   "negativeButton": {
     "text": "Later",
     "action": "DISMISS"
   }
 }
+ 
