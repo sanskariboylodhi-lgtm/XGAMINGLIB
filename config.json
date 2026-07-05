@@ -1,0 +1,16 @@
+{
+  "showDialog": true,
+  "lottieAnimationUrl": "https://raw.githubusercontent.com/devrobinop/Inapp-update/refs/heads/main/Animation.json",
+  "title": "Welcome Back!",
+  "message": "FF Exter1.0 \nby @robinXD_101 \nJoin Telegram For More Updates!!",
+  "isCancelable": true,
+  "positiveButton": {
+    "text": "Join",
+    "action": "OPEN_URL",
+    "actionUrl": "https://t.me/ScarfallModz_Org"
+  },
+  "negativeButton": {
+    "text": "Later",
+    "action": "DISMISS"
+  }
+}
